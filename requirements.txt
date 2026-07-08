@@ -1,0 +1,8 @@
+# Password Generator - Requirements
+
+# Python Version
+  -Python>=3.10
+
+# Built-in Modules Used:
+  -random
+  -secrets
