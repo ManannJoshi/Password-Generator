@@ -33,16 +33,13 @@ The `secrets` module is designed for security-sensitive applications and is more
 ## 🖥️ Preview
 
 Terminal-based password generator with a clean interface:
+<img width="1102" height="556" alt="Screenshot 2026-07-08 060300" src="https://github.com/user-attachments/assets/c11ae967-6520-45f0-943e-fa35751f7bb6" />
 
-```
-=============================================
-🔐  PASSWORD GENERATOR  🔐
-       Created by Manan
-=============================================
+<img width="1099" height="560" alt="Screenshot 2026-07-08 060322" src="https://github.com/user-attachments/assets/5217a68a-08a4-4ee8-9d7a-1ffcf4b710f7" />
 
-🔢 Number of passwords you want >>>
-📏 Password length >>>
-```
+<img width="1097" height="553" alt="Screenshot 2026-07-08 060353" src="https://github.com/user-attachments/assets/68961c55-f8f2-4caa-ad74-cedd82b946a4" />
+
+<img width="1106" height="554" alt="Screenshot 2026-07-08 060528" src="https://github.com/user-attachments/assets/bc96ec92-77a7-475d-949b-39cfd61d4134" />
 
 ## ⚙️ Installation
 
