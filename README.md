@@ -1,7 +1,7 @@
 # 🔐 Password Generator - By Manan
 
 A secure and customizable password generator built using Python.
-
+Download the latest version [here](https://github.com/manannjoshi/Password-Generator/releases/tag/v1.0.0).
 This project generates strong random passwords while allowing users to control the password length and character types used.
 
 ## 🚀 Features
