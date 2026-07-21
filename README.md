@@ -1,26 +1,26 @@
-# 🔐 Password Generator - By Manan
+# Password Generator
 
 A secure and customizable password generator built using Python.
 Download the latest version [here](https://github.com/manannjoshi/Password-Generator/releases/tag/v1.0.0).
 This project generates strong random passwords while allowing users to control the password length and character types used.
 
-## 🚀 Features
+## Features
 
-* 🔒 Secure password generation using Python's `secrets` module
-* 🎲 Randomized password order using `random.shuffle()`
-* 🔢 Generate multiple passwords at once
-* 📏 Custom password length selection
-* 🔤 Choose character types:
+* Secure password generation using Python's `secrets` module
+* Randomized password order using `random.shuffle()`
+* Generate multiple passwords at once
+* Custom password length selection
+* Choose character types:
 
   * Lowercase letters
   * Uppercase letters
   * Numbers
   * Special characters
-* 📊 Password strength estimation
-* ⚠️ Input validation for invalid choices
-* 💻 Available as a standalone `.exe` application
+* Password strength estimation
+* Input validation for invalid choices
+* Available as a standalone `.exe` application
 
-## 🛡️ Security
+## Security
 
 This project uses:
 
@@ -30,7 +30,7 @@ The `secrets` module is designed for security-sensitive applications and is more
 
 `random.shuffle()` is only used after generation to randomize the final password arrangement.
 
-## 🖥️ Preview
+##  Preview
 
 Terminal-based password generator with a clean interface:
 <img width="1102" height="556" alt="Screenshot 2026-07-08 060300" src="https://github.com/user-attachments/assets/c11ae967-6520-45f0-943e-fa35751f7bb6" />
@@ -41,58 +41,24 @@ Terminal-based password generator with a clean interface:
 
 <img width="1106" height="554" alt="Screenshot 2026-07-08 060528" src="https://github.com/user-attachments/assets/bc96ec92-77a7-475d-949b-39cfd61d4134" />
 
-## ⚙️ Installation
+Download and run the exe file from the releases:
 
-### Run using Python
-
-Make sure Python is installed.
-
-Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/Password-Generator.git
-```
-
-Navigate into the folder:
-
-```bash
-cd Password-Generator
-```
-
-Run:
-
-```bash
-python password_generator.py
-```
-
-### Run without Python
-
-Download and run:
 
 ```
 Password_Generator.exe
 ```
 
-No Python installation required.
 
-## 📦 Requirements
+## Future Improvements
 
-* Python 3.x
+* Copy passwords automatically to clipboard
+* Add terminal colors using Colorama
+* Create a GUI version using Tkinter
+* Improve executable distribution
+* Create a web version
 
-External libraries:
-
-* None currently
-
-## 🛠️ Future Improvements
-
-* 📋 Copy passwords automatically to clipboard
-* 🎨 Add terminal colors using Colorama
-* 🖥️ Create a GUI version using Tkinter
-* 📦 Improve executable distribution
-* 🌐 Create a web version
-
-## 👨‍💻 Author
+## Author
 
 **Manan**
 
-Python Class 12 Computer Science Project
+Python Project
